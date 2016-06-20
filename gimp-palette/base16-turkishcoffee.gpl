@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Turkish Coffee
+Columns: 16
+#
+  10  1  2	base00
+  20  2  0	base01
+  74  42  21	base02
+  111  55  18	base03
+  145  80  37	base04
+  193  112  56	base05
+  236  209  190	base06
+  253  251  250	base07
+  154  44  56	base08
+  44  111  154	base09
+  154  142  44	base0A
+  56  154  44	base0B
+  38  134  124	base0C
+  44  154  142	base0D
+  142  44  154	base0E
+  87  44  154	base0F

@@ -1,0 +1,29 @@
+# schema for konsole (KDE3)
+# put in ~/.kde/share/apps/konsole/
+
+title = Base16 Turkish Coffee
+
+
+#   slot    transparent bold
+#      | red grn blu  | |
+#      V V--color--V  V V
+color  0 193 112  56  0 0 # 0 - Foreground Color
+color  1  10   1   2  1 0 # 1 - Background Color
+color  2  10   1   2  0 0 # 2 - Color 0 (black)
+color  3 154  44  56  0 0 # 3 - Color 1 (red)
+color  4  56 154  44  0 0 # 3 - Color 2 (green)
+color  5 154 142  44  0 0 # 3 - Color 3 (yellow)
+color  6  44 154 142  0 0 # 3 - Color 4 (blue)
+color  7 142  44 154  0 0 # 3 - Color 5 (magenta)
+color  8  38 134 124  0 0 # 3 - Color 6 (cyan)
+color  9 193 112  56  0 0 # 3 - Color 7 (white)
+color 10 223 181 153  0 1 # 3 - Foreground Intensive Color
+color 11 131 126 126  1 0 # 3 - Background Intensive Color
+color 12 131 126 126  0 0 # 3 - Color 0 Intensive (grey)
+color 13 203 147 153  0 0 # 3 - Color 1 Intensive (light red)
+color 14 154 202 147  0 0 # 3 - Color 2 Intensive (light green)
+color 15 203 196 147  0 0 # 3 - Color 3 Intensive (light yellow)
+color 16 148 202 196  0 0 # 3 - Color 4 Intensive (light blue)
+color 17 197 147 202  0 0 # 3 - Color 5 Intensive (light magenta)
+color 18 145 192 187  0 0 # 3 - Color 6 Intensive (light cyan)
+color 19 223 181 153  0 0 # 3 - Color 7 Intensive (white)

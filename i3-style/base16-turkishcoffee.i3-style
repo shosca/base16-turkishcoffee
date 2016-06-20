@@ -1,0 +1,66 @@
+# vim: filetype=yaml
+# i3-style Template
+# Base16 Turkish Coffee, by Serkan Hosca
+# template by Matt Parnell, @parnmatt
+---
+colors:
+    base00:              '#0a0102'
+    base01:              '#140200'
+    base02:              '#4a2a15'
+    base03:              '#6f3712'
+    base04:              '#915025'
+    base05:              '#c17038'
+    base06:              '#ecd1be'
+    base07:              '#fdfbfa'
+    base08:              '#9a2c38'
+    base09:              '#2c6f9a'
+    base0A:              '#9a8e2c'
+    base0B:              '#389a2c'
+    base0C:              '#26867c'
+    base0D:              '#2c9a8e'
+    base0E:              '#8e2c9a'
+    base0F:              '#572c9a'
+
+meta:
+    description:         'Base16 Turkish Coffee, by Serkan Hosca'
+window_colors:
+    focused:
+        border:          'base0D'
+        background:      'base0D'
+        text:            'base00'
+        indicator:       'base01'
+    focused_inactive:
+        border:          'base02'
+        background:      'base02'
+        text:            'base03'
+        indicator:       'base01'
+    unfocused:
+        border:          'base01'
+        background:      'base01'
+        text:            'base03'
+        indicator:       'base01'
+    urgent:
+        border:          'base02'
+        background:      'base08'
+        text:            'base07'
+        indicator:       'base08'
+bar_colors:
+    separator:           'base03'
+    background:          'base00'
+    statusline:          'base05'
+    focused_workspace:
+        border:          'base0D'
+        background:      'base0D'
+        text:            'base00'
+    active_workspace:
+        border:          'base02'
+        background:      'base02'
+        text:            'base07'
+    inactive_workspace:
+        border:          'base01'
+        background:      'base01'
+        text:            'base03'
+    urgent_workspace:
+        border:          'base08'
+        background:      'base08'
+        text:            'base07'

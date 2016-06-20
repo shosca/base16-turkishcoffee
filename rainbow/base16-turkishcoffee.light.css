@@ -1,0 +1,49 @@
+/**
+ * Base16 Turkish Coffee Light
+ *
+ * @author Serkan Hosca
+ *
+ * Rainbow template by Jan T. Sott (https://github.com/idleberg/)
+ * Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+ */
+pre {
+    background-color: #fdfbfa;
+    word-wrap: break-word;
+    margin: 0px;
+    padding: 10px;
+    color: #0a0102;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+pre, code {
+    font-family: 'Monaco', courier, monospace;
+}
+
+pre .comment {
+    color: #915025;
+}
+
+pre .variable.global, pre .variable.class, pre .variable.instance {
+    color: #9a2c38; /* red */
+}
+
+pre .constant.numeric, pre .constant.language, pre .constant.hex-color, pre .keyword.unit {
+    color: #2c6f9a; /* orange */
+}
+
+pre .constant, pre .entity, pre .entity.class, pre .support {
+    color: #9a8e2c; /* yellow */
+}
+
+pre .constant.symbol, pre .string {
+    color: #389a2c; /* green */
+}
+
+pre .entity.function, pre .support.css-property, pre .selector {
+    color: #2c9a8e; /* blue */
+}
+
+pre .keyword, pre .storage {
+    color: #8e2c9a; /* purple */
+}

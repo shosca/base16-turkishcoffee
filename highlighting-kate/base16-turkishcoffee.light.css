@@ -1,0 +1,23 @@
+/* Base16 Turkish Coffee
+Scheme: Serkan Hosca */
+
+table.sourceCode, tr.sourceCode, td.sourceCode, table.sourceCode pre
+{ margin: 0; padding: 0; border: 0; vertical-align: baseline; border: none; background-color: #fdfbfa; color: #4a2a15 }
+td.nums { text-align: right; padding-right: 5px; padding-left: 5px; background-color: #ecd1be; }
+td.sourceCode { padding-left: 5px; }
+code.sourceCode { background-color: #fdfbfa; }
+pre.sourceCode { background-color: #fdfbfa; line-height: 125% }
+td.nums pre { background-color: #ecd1be; line-height: 125% }
+code.sourceCode span.kw { color: #2c9a8e; font-weight: bold } /* Keyword */
+code.sourceCode span.dt { color: #8e2c9a} /* Keyword.Type */
+code.sourceCode span.dv { color: #2c6f9a } /* Literal.Number.Integer */
+code.sourceCode span.bn { color: #2c6f9a } /* Literal.Number.Hex */
+code.sourceCode span.fl { color: #2c6f9a } /* Literal.Number.Float */
+code.sourceCode span.ch { color: #389a2c} /* Literal.String.Char */
+code.sourceCode span.st { color: #389a2c } /* Literal.String */
+code.sourceCode span.co { color: #6f3712 } /* Comment */
+code.sourceCode span.ot { color: #572c9a } /* Comment.Preproc */
+code.sourceCode span.al { color: #8e2c9a } /* Generic.Error */
+code.sourceCode span.fu { color: #9a8e2c } /* Name.Function */
+code.sourceCode span.re { color: #26867c}
+code.sourceCode span.er { color: #9a2c38; border: 1px solid #8e2c9a } /* Error */

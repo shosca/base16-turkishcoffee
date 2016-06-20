@@ -1,0 +1,116 @@
+/*
+
+    Name:       Base16 Turkish Coffee Dark
+    Author:     Serkan Hosca
+
+    highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+$base00: #0a0102;
+$base01: #140200;
+$base02: #4a2a15;
+$base03: #6f3712;
+$base04: #915025;
+$base05: #c17038;
+$base06: #ecd1be;
+$base07: #fdfbfa;
+$base08: #9a2c38;
+$base09: #2c6f9a;
+$base0a: #9a8e2c;
+$base0b: #389a2c;
+$base0c: #26867c;
+$base0d: #2c9a8e;
+$base0e: #8e2c9a;
+$base0f: #572c9a;
+
+// Turkish Coffee Comment
+.hljs-comment {
+  color: $base04;
+}
+
+// Turkish Coffee Red
+.hljs-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-regexp,
+.ruby .hljs-constant,
+.xml .hljs-tag .hljs-title,
+.xml .hljs-pi,
+.xml .hljs-doctype,
+.html .hljs-doctype,
+.css .hljs-id,
+.css .hljs-class,
+.css .hljs-pseudo {
+  color: $base08;
+}
+
+// Turkish Coffee Orange
+.hljs-number,
+.hljs-preprocessor,
+.hljs-built_in,
+.hljs-literal,
+.hljs-params,
+.hljs-constant {
+  color: $base09;
+}
+
+// Turkish Coffee Yellow
+.ruby .hljs-class .hljs-title,
+.css .hljs-rules .hljs-attribute {
+  color: $base0a;
+}
+
+// Turkish Coffee Green
+.hljs-string,
+.hljs-value,
+.hljs-inheritance,
+.hljs-header,
+.ruby .hljs-symbol,
+.xml .hljs-cdata {
+  color: $base0b;
+}
+
+// Turkish Coffee Aqua
+.hljs-title,
+.css .hljs-hexcolor {
+  color: $base0c;
+}
+
+// Turkish Coffee Blue
+.hljs-function,
+.python .hljs-decorator,
+.python .hljs-title,
+.ruby .hljs-function .hljs-title,
+.ruby .hljs-title .hljs-keyword,
+.perl .hljs-sub,
+.javascript .hljs-title,
+.coffeescript .hljs-title {
+  color: $base0d;
+}
+
+// Turkish Coffee Purple
+.hljs-keyword,
+.javascript .hljs-function {
+  color: $base0e;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: $base00;
+  color: $base05;
+  padding: 0.5em;
+  -webkit-text-size-adjust: none;
+}
+
+.coffeescript .javascript,
+.javascript .xml,
+.tex .hljs-formula,
+.xml .javascript,
+.xml .vbscript,
+.xml .css,
+.xml .hljs-cdata {
+  opacity: 0.5;
+}

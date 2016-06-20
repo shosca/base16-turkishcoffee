@@ -1,0 +1,52 @@
+! Base16 Turkish Coffee
+! Scheme: Serkan Hosca
+
+! URxvt*tintColor:                      color
+! URxvt*fadeColor:                      color
+
+URxvt*background:                     #fdfbfa
+URxvt*foreground:                     #4a2a15
+URxvt*cursorColor:                    #4a2a15
+
+! URxvt*colorBD:                        color
+! URxvt*colorIT:                        color
+! URxvt*colorUL:                        color
+! URxvt*colorRV:                        color
+! URxvt*underlineColor:                 color
+URxvt*scrollColor:                    #c17038
+! URxvt*troughColor:                    color
+URxvt*highlightColor:                 #fdfbfa
+URxvt*highlightTextColor:             #c17038
+! URxvt*cursorColor2:                   color
+! URxvt*pointerColor:                   color
+! URxvt*pointerColor2:                  color
+! URxvt*borderColor:                    color
+! URxvt*tab-bg:                         colour
+! URxvt*tab-fg:                         colour
+! URxvt*tabbar-bg:                      colour
+! URxvt*tabbar-fg:                      colour
+
+URxvt*color0:                         #0a0102
+URxvt*color1:                         #9a2c38
+URxvt*color2:                         #389a2c
+URxvt*color3:                         #9a8e2c
+URxvt*color4:                         #2c9a8e
+URxvt*color5:                         #8e2c9a
+URxvt*color6:                         #26867c
+URxvt*color7:                         #c17038
+URxvt*color8:                         #6f3712
+URxvt*color9:                         #9a2c38
+URxvt*color10:                        #389a2c
+URxvt*color11:                        #9a8e2c
+URxvt*color12:                        #2c9a8e
+URxvt*color13:                        #8e2c9a
+URxvt*color14:                        #26867c
+URxvt*color15:                        #fdfbfa
+
+! 256 color space
+URxvt*color16:                        #2c6f9a
+URxvt*color17:                        #572c9a
+URxvt*color18:                        #140200
+URxvt*color19:                        #4a2a15
+URxvt*color20:                        #915025
+URxvt*color21:                        #ecd1be

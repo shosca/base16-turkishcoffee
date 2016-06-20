@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Turkish Coffee Light
+    Author:     Serkan Hosca
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-turkishcoffee-light.CodeMirror {background: #fdfbfa; color: #140200;}
+.cm-s-base16-turkishcoffee-light div.CodeMirror-selected {background: #ecd1be !important;}
+.cm-s-base16-turkishcoffee-light .CodeMirror-gutters {background: #fdfbfa; border-right: 0px;}
+.cm-s-base16-turkishcoffee-light .CodeMirror-linenumber {color: #915025;}
+.cm-s-base16-turkishcoffee-light .CodeMirror-cursor {border-left: 1px solid #6f3712 !important;}
+
+.cm-s-base16-turkishcoffee-light span.cm-comment {color: #572c9a;}
+.cm-s-base16-turkishcoffee-light span.cm-atom {color: #8e2c9a;}
+.cm-s-base16-turkishcoffee-light span.cm-number {color: #8e2c9a;}
+
+.cm-s-base16-turkishcoffee-light span.cm-property, .cm-s-base16-turkishcoffee-light span.cm-attribute {color: #389a2c;}
+.cm-s-base16-turkishcoffee-light span.cm-keyword {color: #9a2c38;}
+.cm-s-base16-turkishcoffee-light span.cm-string {color: #9a8e2c;}
+
+.cm-s-base16-turkishcoffee-light span.cm-variable {color: #389a2c;}
+.cm-s-base16-turkishcoffee-light span.cm-variable-2 {color: #2c9a8e;}
+.cm-s-base16-turkishcoffee-light span.cm-def {color: #2c6f9a;}
+.cm-s-base16-turkishcoffee-light span.cm-error {background: #9a2c38; color: #6f3712;}
+.cm-s-base16-turkishcoffee-light span.cm-bracket {color: #140200;}
+.cm-s-base16-turkishcoffee-light span.cm-tag {color: #9a2c38;}
+.cm-s-base16-turkishcoffee-light span.cm-link {color: #8e2c9a;}
+
+.cm-s-base16-turkishcoffee-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}

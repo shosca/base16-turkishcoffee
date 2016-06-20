@@ -1,0 +1,13 @@
+# ~/.i3status.conf
+# Base16 Turkish Coffee, by Serkan Hosca
+# template by Matt Parnell, @parnmatt
+
+general {
+    colors = true
+    color_good = "#389a2c"
+    color_bad = "9a2c38"
+    ## remember to add your prefered interval
+    # interval = 5
+}
+
+## remember to add the rest of your configure

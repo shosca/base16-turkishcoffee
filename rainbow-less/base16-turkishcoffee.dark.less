@@ -1,0 +1,66 @@
+/**
+ * Base16 Turkish Coffee Dark
+ *
+ * @author Serkan Hosca
+ *
+ * Rainbow template by Jan T. Sott (https://github.com/idleberg/)
+ * Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+ */
+@base00: #0a0102;
+@base01: #140200;
+@base02: #4a2a15;
+@base03: #6f3712;
+@base04: #915025;
+@base05: #c17038;
+@base06: #ecd1be;
+@base07: #fdfbfa;
+@base08: #9a2c38;
+@base09: #2c6f9a;
+@base0a: #9a8e2c;
+@base0b: #389a2c;
+@base0c: #26867c;
+@base0d: #2c9a8e;
+@base0e: #8e2c9a;
+@base0f: #572c9a;
+
+pre {
+    background-color: @base00;
+    word-wrap: break-word;
+    margin: 0px;
+    padding: 10px;
+    color: @base07;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+pre, code {
+    font-family: 'Monaco', courier, monospace;
+}
+
+pre .comment {
+    color: @base03;
+}
+
+pre .variable.global, pre .variable.class, pre .variable.instance {
+    color: @base08; // red
+}
+
+pre .constant.numeric, pre .constant.language, pre .constant.hex-color, pre .keyword.unit {
+    color: @base09; // orange
+}
+
+pre .constant, pre .entity, pre .entity.class, pre .support {
+    color: @base0a; // yellow
+}
+
+pre .constant.symbol, pre .string {
+    color: @base0b; // green
+}
+
+pre .entity.function, pre .support.css-property, pre .selector {
+    color: @base0d; // blue
+}
+
+pre .keyword, pre .storage {
+    color: @base0e; // purple
+}

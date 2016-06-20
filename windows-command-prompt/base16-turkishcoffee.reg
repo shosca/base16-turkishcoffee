@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Turkish Coffee (https://github.com/chriskempson/base16)
+; Scheme: Serkan Hosca
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:0002010a
+"ColorTable01"=dword:008e9a2c
+"ColorTable02"=dword:002c9a38
+"ColorTable03"=dword:007c8626
+"ColorTable04"=dword:009a6f2c
+"ColorTable05"=dword:009a2c8e
+"ColorTable06"=dword:002c8e9a
+"ColorTable07"=dword:00255091
+"ColorTable08"=dword:0012376f
+"ColorTable09"=dword:008e9a2c
+"ColorTable10"=dword:002c9a38
+"ColorTable11"=dword:007c8626
+"ColorTable12"=dword:00382c9a
+"ColorTable13"=dword:009a2c57
+"ColorTable14"=dword:002c8e9a
+"ColorTable15"=dword:00fafbfd

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE palette PUBLIC "-//Kreative//DTD ResplendentColor 1.0//EN" "rcpx.dtd">
+<palette name="Base16 Turkish Coffee">
+	<colors ordered="ordered">
+		<rgb r= "10" g=  "1" b=  "2"/>
+		<rgb r= "20" g=  "2" b=  "0"/>
+		<rgb r= "74" g= "42" b= "21"/>
+		<rgb r="111" g= "55" b= "18"/>
+		<rgb r="145" g= "80" b= "37"/>
+		<rgb r="193" g="112" b= "56"/>
+		<rgb r="236" g="209" b="190"/>
+		<rgb r="253" g="251" b="250"/>
+		<rgb r="154" g= "44" b= "56"/>
+		<rgb r= "44" g="111" b="154"/>
+		<rgb r="154" g="142" b= "44"/>
+		<rgb r= "56" g="154" b= "44"/>
+		<rgb r= "38" g="134" b="124"/>
+		<rgb r= "44" g="154" b="142"/>
+		<rgb r="142" g= "44" b="154"/>
+		<rgb r= "87" g= "44" b="154"/>
+	</colors>
+	<layout>
+		<oriented>
+			<horizontal>
+				<column>
+					<row><range start="0" end= "8"/></row>
+					<row><range start="8" end="16"/></row>
+				</column>
+			</horizontal>
+			<square>
+				<column>
+					<row><range start= "0" end= "4"/></row>
+					<row><range start= "4" end= "8"/></row>
+					<row><range start= "8" end="12"/></row>
+					<row><range start="12" end="16"/></row>
+				</column>
+			</square>
+			<vertical>
+				<row>
+					<column><range start="0" end= "8"/></column>
+					<column><range start="8" end="16"/></column>
+				</row>
+			</vertical>
+		</oriented>
+	</layout>
+</palette>

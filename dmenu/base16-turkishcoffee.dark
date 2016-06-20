@@ -1,0 +1,6 @@
+# dmenu template
+# base16 Turkish Coffee Dark, by Serkan Hosca
+# template by Matt Parnell, @parnmatt
+
+# add this as an alias, or however you wish to run dmenu
+dmenu -nb '0a0102' -nf '6f3712' -sb '2c9a8e' -sf '0a0102'

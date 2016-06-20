@@ -1,0 +1,41 @@
+! Base16 Turkish Coffee
+! Scheme: Serkan Hosca
+
+#define base00 #0a0102
+#define base01 #140200
+#define base02 #4a2a15
+#define base03 #6f3712
+#define base04 #915025
+#define base05 #c17038
+#define base06 #ecd1be
+#define base07 #fdfbfa
+#define base08 #9a2c38
+#define base09 #2c6f9a
+#define base0A #9a8e2c
+#define base0B #389a2c
+#define base0C #26867c
+#define base0D #2c9a8e
+#define base0E #8e2c9a
+#define base0F #572c9a
+
+*foreground:   base02
+*background:   base07
+*cursorColor:  base02
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
+
+*color8:       base03
+*color9:       base09
+*color10:      base01
+*color11:      base02
+*color12:      base04
+*color13:      base06
+*color14:      base0F
+*color15:      base07
